@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://www.aajtak.in/livetv`
+					`https://insurance.curenet.xyz/?utm_source=SEND&utm_medium=Rango&utm_campaign=Rango`
 				}`,
 			},
 		};
