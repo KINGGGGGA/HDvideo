@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`wwww.facebook.com`
+					`www.google.com`
 				}`,
 			},
 		};
