@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://blog.wrgames.online/top-hospitals-in-chennai/?utm_source=PK&utm_medium=SS_Pro&utm_campaign=SS_Pro`
+					`wwww.facebook.com`
 				}`,
 			},
 		};
