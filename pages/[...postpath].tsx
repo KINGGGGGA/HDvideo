@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://insurance.curenet.xyz/?utm_source=SEND&utm_medium=Rango&utm_campaign=Rango`
+					`https://en.usanewscycle.com/the-top-5-hospitals-in-the-usa/?utm_source=vicky&utm_medium=Rango`
 				}`,
 			},
 		};
